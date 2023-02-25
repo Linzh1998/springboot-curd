@@ -2,6 +2,14 @@
 springboot background management system
 （springboot后台管理系统）
 
+👇效果图
+
+👇使用说明（请往下看）
+
+![image](https://user-images.githubusercontent.com/72512608/221348671-6105761b-1633-4f8c-9674-090520a1df6e.png)
+
+![image](https://user-images.githubusercontent.com/72512608/221348694-16827b23-be70-4ebb-9d6d-c82d7d4ebf2a.png)
+
 
 使用说明:
 
