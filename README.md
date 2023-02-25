@@ -11,7 +11,7 @@ springboot background management system
 ![image](https://user-images.githubusercontent.com/72512608/221348694-16827b23-be70-4ebb-9d6d-c82d7d4ebf2a.png)
 
 
-使用说明:
+🌱使用说明:
 
 1.导入sql文件
 
